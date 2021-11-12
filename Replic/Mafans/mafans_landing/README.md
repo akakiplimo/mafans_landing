@@ -1,6 +1,10 @@
-# mafans_landing
+# Mafans_landing
+> A Vue.js x Firebase project
 
-> A Vue.js project
+- Mafans App Landing page with; 
+  - general information about the web app
+  - a mail subsciption service for future notification once launched 
+  - a contact area for general inquiries
 
 ## Build Setup
 
