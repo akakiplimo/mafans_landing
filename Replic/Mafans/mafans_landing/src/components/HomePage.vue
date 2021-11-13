@@ -8,7 +8,7 @@
                         <h1 class="display-3 text-light"><strong>{{ title }}</strong></h1>
                         <h3 class="text-light">Ninawapenda Wote!</h3>
                     </div>
-                    <img id="iphone-img pt-4 my-auto" src="../assets/iphone.png" class="img-fluig"/>
+                    <img id="iphone-img" src="../assets/iphone8.png" class="img-fluig pt-4 my-auto"/>
                 </div>
 
                 <div class="col-lg-6 my-auto pt-4">
@@ -42,6 +42,9 @@
                             Available On
                         </h4>
                         <div class="row">
+                            <div class="col my-auto">
+                                <img src="../assets/html.png" class="float-left img-fluid">
+                            </div>
                             <div class="col my-auto">
                                 <img src="../assets/appstore.png" class="float-right img-fluid">
                             </div>
@@ -121,7 +124,7 @@
         <footer class="text-light p-4"> 
             <a href="#" class="text-warning">Privacy Policy</a>
             <br>
-            <small>&copy; 2021 MaFans.app</small>
+            <small>&copy; 2021, MaFans.app</small>
         </footer>
     </div>
   </div>
@@ -199,7 +202,7 @@ export default {
 <style scoped>
     #home-page {
         background-color:#FF7F50;
-        background:url('../assets/raiyaa.jpeg') no-repeat center center;
+        background:url('../assets/raiyaa1.jpeg') no-repeat center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
